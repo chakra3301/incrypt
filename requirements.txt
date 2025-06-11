@@ -1,0 +1,7 @@
+flask
+pillow
+numpy
+tqdm
+zstandard
+torch
+transformers
